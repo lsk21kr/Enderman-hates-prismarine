@@ -1,0 +1,30 @@
+{
+    "display": {
+        "title": "Template Datapack <version>",
+        "description": 
+            [
+                {
+                    "text": "• Description 1."
+                },
+                {
+                    "text": "\n\n• Description 2.",
+                    "color": "yellow"
+                },
+                {
+                    "text": "\n\n• Check out for updates on https://modrinth.com/user/lsk21kr",
+                    "color": "blue"
+                }
+            ],
+        "icon": {
+            "item": "minecraft:bone_meal"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:guris",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
