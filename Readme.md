@@ -1,38 +1,17 @@
-# datapack-template
-This is a template for data pack.
+# Enderman hates prismarine
+Endermen take damage on prismarine-related blocks. That's all.
 
 ## Dev Status
 * **Pre-production**🟧: Still designing features.
-* **In Progress**🟨: Implementing features. Not working properly.
-* **Maintaining**🟩: Implementation completed. Only maintaining for new versions.
-* **Active**🟦: Actively developing. Working properly.
-* **Outdated**🟥: This feature is outdated. Waiting to be updated.
-* **Depredated**⬛: No longer maintaining this project.
-* **Version**: (version numering)
+* **Version**: Unreleased
 
-## Compatibility (example)
+## Compatibility
 * 1.19.4 - 1.20.x
-* Multiplayer friendly (maybe?)
-* Singleplayer Only
+* Multiplayer friendly
 
 ## Features
-### Feature 1
-Explain implemented features here.
-* List 1
-* List 2
-* List 3
-
-## Planned Features (Soon™)
-* List planned features here.
-* List 2
-* List 3
-
-## References
-* Give credits to helpers.
-* Refer 2
-* Refer 3
+* Endermen take damage on prismarine-related blocks
+* You can configure which blocks to give damage or not using `/function guris:ender_pris/settings`
 
 ## Version history
-* Version 1: updated contents
-* Version 2
-* Version 3
+* Unreleased

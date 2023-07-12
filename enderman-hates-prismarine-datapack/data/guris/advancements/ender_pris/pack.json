@@ -1,13 +1,13 @@
 {
     "display": {
-        "title": "Template Datapack <version>",
+        "title": "Enderman Hates Prismarine v0.1",
         "description": 
             [
                 {
-                    "text": "• Description 1."
+                    "text": "• Enderman takes damage on prismarine."
                 },
                 {
-                    "text": "\n\n• Description 2.",
+                    "text": "\n\n• That's all. Simple.",
                     "color": "yellow"
                 },
                 {
@@ -16,7 +16,7 @@
                 }
             ],
         "icon": {
-            "item": "minecraft:bone_meal"
+            "item": "minecraft:prismarine"
         },
         "announce_to_chat": false,
         "show_toast": false
