@@ -1,0 +1,13 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "type": "minecraft:enderman",
+      "stepping_on": {
+        "block": {
+          "tag": "guris:ender_pris/prismarine_brick_blocks"
+        }
+      }
+    }
+  }
+  

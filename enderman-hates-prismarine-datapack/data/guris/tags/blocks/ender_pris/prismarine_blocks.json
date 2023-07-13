@@ -1,0 +1,20 @@
+{
+    "values": [
+        {
+            "id": "minecraft:prismarine",
+            "required": false
+        },
+        {
+            "id": "minecraft:prismarine_slab",
+            "required": false
+        },
+        {
+            "id": "minecraft:prismarine_stairs",
+            "required": false
+        },
+        {
+            "id": "minecraft:prismarine_wall",
+            "required": false
+        }
+    ]
+}

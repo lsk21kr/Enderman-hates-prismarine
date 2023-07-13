@@ -1,14 +1,13 @@
 # Version History
-## \<version name\> (\<release date\>)
+## v1.0 (2023-07-14)
 * Added
-  * added faature 1
-  * added feature 2
-  * added feature 3
-* Modified
-  * modified feature 1
-  * modified feature 2
-  * modified feature 3
-* Removed
-  * removed feature 1
-  * removed feature 2
-  * removed feature 3
+  * Endermen take damage from following blocks
+    * Prismarine, prismarine stairs, prismarine slab, and prismarine wall
+    * Prismarine bricks, prismarine brick stairs, and prismarine brick slab
+    * Dark prismarine, dark prismarine stairs, and dark prismarine slab
+    * Sea lantern
+  * Settings to select which block type to give damage or not
+    * Prismarine blocks
+    * Prismarine brick blocks
+    * Dark prismarine blocks
+    * Sea lantern

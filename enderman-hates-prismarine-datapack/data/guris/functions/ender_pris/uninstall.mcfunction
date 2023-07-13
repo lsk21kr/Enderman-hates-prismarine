@@ -1,2 +1,2 @@
 # context: function command
-## finalise everything to uninstall
+scoreboard objectives remove guris.ender_pris

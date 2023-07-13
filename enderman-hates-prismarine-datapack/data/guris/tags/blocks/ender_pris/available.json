@@ -1,0 +1,20 @@
+{
+    "values": [
+        {
+            "id": "#guris:ender_pris/prismarine_blocks",
+            "required": false
+        },
+        {
+            "id": "#guris:ender_pris/dark_prismarine_blocks",
+            "required": false
+        },
+        {
+            "id": "#guris:ender_pris/prismarine_brick_blocks",
+            "required": false
+        },
+        {
+            "id": "minecraft:sea_lantern",
+            "required": false
+        }
+    ]
+}

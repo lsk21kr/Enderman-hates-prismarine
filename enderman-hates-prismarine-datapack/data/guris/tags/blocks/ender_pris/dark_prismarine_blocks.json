@@ -1,0 +1,16 @@
+{
+    "values": [
+        {
+            "id": "minecraft:dark_prismarine",
+            "required": false
+        },
+        {
+            "id": "minecraft:dark_prismarine_slab",
+            "required": false
+        },
+        {
+            "id": "minecraft:dark_prismarine_stairs",
+            "required": false
+        }
+    ]
+}
