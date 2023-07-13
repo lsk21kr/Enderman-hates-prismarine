@@ -6,7 +6,7 @@ Endermen take damage on prismarine-related blocks. That's all.
 * **Version**: v1.0
 
 ## Compatibility
-* 1.19.4 - 1.20.x
+* 1.19.4 - 1.20.x (may work in prior versions idk)
 * Multiplayer friendly
 
 ## Features
@@ -15,6 +15,7 @@ Endermen take damage on prismarine-related blocks. That's all.
 
 ## Planned features (Soon™)
 * Settings for the amount of damage given to endermen (currently fixed as 1)
+  * Maybe per block?
 
 ## Version history
 * v1.0: enderman takes damage. block settings.
